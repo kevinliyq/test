@@ -9,6 +9,8 @@
 #remember user and password: git config credential.helper store
 my test
 Hello
+<<<<<<< HEAD
 
 Master
 test2
+my branch
