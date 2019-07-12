@@ -11,3 +11,4 @@ my test
 Hello
 
 Master
+test2
