@@ -14,3 +14,5 @@ Master
 test2
 my branch
 master commit
+my branch
+my branch added
